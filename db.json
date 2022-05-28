@@ -1,11 +1,5 @@
 {
-
-    "tasks":[
-    {
-      "id": 1,
-      "title": "new",
-      "status": false
-    },
+  "tasks": [
     {
       "title": "Buy Bread",
       "status": false,
